@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AmazonCart</string>
+    <string name="proceed">Proceed to Buy(2 items)</string>
+    <string name="name1">Art Street Lustrus Flower<br /> Decorative Wall Mirror (Set of 3)<br/>
+        (Size...)
+    </string>
+    <string name="name2">Handicrafts Decor Wooden<br /> Partitions Wood Room Divider<br/>
+        Partition...
+    </string>
+    <string name="price1"><sup>$</sup>799<sup>00</sup></string>
+    <string name="price2"><sup>$</sup>6,844<sup>00</sup></string>
+    <string name="stock">In stock</string>
+    <string name="dispatch">Usually dispatched in 4 to 5 days.</string>
+    <string name="sold_by">Sold by</string>
+    <string name="merchant_name1">Painting Mantra</string>
+    <string name="merchant_name2">Handicrafts Decor</string>
+    <string name="delivered">Amazon Delivered</string>
+    <string name="color_name">Color Name:</string>
+    <string name="color_type">Rustic Copper - Round</string>
+    <string name="char_1">1</string>
+    <string name="plus">+</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save for Later</string>
+</resources>
